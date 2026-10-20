@@ -8,7 +8,7 @@ The application collects publicly available website content, extracts company in
 ##  Live Application
 
 - **Live Dashboard:** https://bagsluagageai-x3cmju9nwtntovte5t6c7t.streamlit.app/
-- **Backend API:** [FastAPI on Render](https://bags-luagage-ai.onrender.com)
+- **Backend API:** https://bags-luagage-ai.onrender.com
 
 ##  Project Overview
 
