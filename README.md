@@ -7,9 +7,9 @@ The application collects publicly available website content, extracts company in
 
 ##  Live Application
 
-- **Live Dashboard:** [Bags & Luggage AI] - (https://bagsluagageai-x3cmju9nwtnqvte5t6c7t.streamlit.app/)
-- **Backend API:** [FastAPI on Render] - (https://bags-luagage-ai.onrender.com)
-- **Interactive API Documentation:** [Explore API Endpoints] - (https://bags-luagage-ai.onrender.com/docs)
+- **Live Dashboard:** [Bags & Luggage AI](https://bagsluagageai-x3cmju9nwtnqvte5t6c7t.streamlit.app/)
+- **Backend API:** [FastAPI on Render](https://bags-luagage-ai.onrender.com)
+- **Interactive API Documentation:** [Explore API Endpoints](https://bags-luagage-ai.onrender.com/docs)
 
 ##  Project Overview
 
