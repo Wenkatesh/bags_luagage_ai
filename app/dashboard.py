@@ -12,7 +12,7 @@ import streamlit as st
 # 1. CONFIGURATION
 # ============================================================
 
-API_BASE_URL = "http://127.0.0.1:8000"
+API_BASE_URL = "https://bags-luagage-ai.onrender.com"
 COMPANIES_API_URL = f"{API_BASE_URL}/api/companies"
 
 st.set_page_config(
